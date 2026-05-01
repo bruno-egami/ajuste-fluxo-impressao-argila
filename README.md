@@ -20,7 +20,7 @@ Este script atua de forma invisível logo após o fatiamento. Ele lê o arquivo 
 
 ## ✨ Funcionalidades Principais
 
-O script evoluiu para um sistema de **Controle de Fluxo em 4 Estágios**, permitindo precisão cirúrgica na estrutura da peça:
+O script é um sistema de **Controle de Fluxo em 4 Estágios**, permitindo precisão no ajuste de fluxo em cada elemento na estrutura da peça:
 
 - **Camadas de Base:** Fluxo otimizado para garantir a adesão inicial na mesa.
 - **Intermediário 1 (Primeira Transição):** Ajuste para criar os pilares de suporte iniciais sem esmagar a base mole.
